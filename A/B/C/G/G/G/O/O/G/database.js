@@ -9,8 +9,10 @@ let bb = "```"
 let footer = `> *MACTRIX-MD*
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪꜱᴜʀᴜ ᴄʜᴀᴍɪᴋᴀ ᴀɴᴅ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*`
 
+[{
+"aliveimg":  "https://i.ibb.co/pwNf08R/1713103024643.jpg"
+},
 {
-"aliveimg":  "https://i.ibb.co/pwNf08R/1713103024643.jpg",
 "alivemsg": `*Hello, I am Alive Now!*
     
 *👽 Bᴏᴛ Nᴀᴍᴇ - MACTRIX-MD*
@@ -34,4 +36,4 @@ let footer = `> *MACTRIX-MD*
 
 
 ${footer}`
-}
+}]
