@@ -13,27 +13,5 @@ let footer = `> *MACTRIX-MD*
 "aliveimg":  "https://i.ibb.co/pwNf08R/1713103024643.jpg"
 },
 {
-"alivemsg": `*Hello, I am Alive Now!*
-    
-*👽 Bᴏᴛ Nᴀᴍᴇ - MACTRIX-MD*
-*👨‍💻 Bᴏᴛ Dᴇᴠ - Isuru Chamika*
-*🕵️ Bᴏᴛ Oᴡɴᴇʀ - ${config.OWNER_NAME}*
-
-🟢 I am Online Still ${uptime}
-🔮 You Can Use Me With This [ ${config.PREFIX} ] Prefix.
-🔁 Response Delay :
-🖥️ Host : ${host}
-🧬 Version : 1.0.0
-
-*You Can Contact Bot Developer Using,*
-*◦${config.PREFIX}dev*
-*◦${config.PREFIX}developer*
-*◦${config.PREFIX}isuru*
-*◦${config.PREFIX}tharu*
-*Commands..!*
-
-🎛️ Work Mode : ${config.MODE}
-
-
-${footer}`
+"alivemsg": "*Hello, I am Alive Now!*\n\n*👽 Bᴏᴛ Nᴀᴍᴇ - MACTRIX-MD*\n*👨‍💻 Bᴏᴛ Dᴇᴠ - Isuru Chamika*\n*🕵️ Bᴏᴛ Oᴡɴᴇʀ - ${config.OWNER_NAME}*\n\n🟢 I am Online Still ${uptime}\n🔮 You Can Use Me With This [ ${config.PREFIX} ] Prefix.\n🔁 Response Delay :\n🖥️ Host : ${host}\n🧬 Version : 1.0.0\n\n*You Can Contact Bot Developer Using,*\n*◦${config.PREFIX}dev*\n*◦${config.PREFIX}developer*\n*◦${config.PREFIX}isuru*\n*◦${config.PREFIX}tharu*\n*Commands..!*\n\n🎛️ Work Mode : ${config.MODE}\n\n\n${footer}"
 }]
